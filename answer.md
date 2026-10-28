@@ -56,7 +56,11 @@ public void mt_getResult(){
 1. (需截圖說明，並且需截圖執行結果)
 
 Ans:
-
+<br />
+![alt text](img/1.png)
+<br />
+![alt text](img/2.png)
+<br />
 2. (需截圖說明，並且需截圖執行結果)
 
 Ans:
